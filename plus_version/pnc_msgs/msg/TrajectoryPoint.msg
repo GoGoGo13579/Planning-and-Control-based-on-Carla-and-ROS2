@@ -1,0 +1,9 @@
+float64 x
+float64 y
+float64 heading
+float64 kappa
+float64 v
+float64 ax
+float64 ay
+float64 a_tau
+float64 time_stamped
