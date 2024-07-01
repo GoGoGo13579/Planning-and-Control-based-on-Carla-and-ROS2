@@ -19,3 +19,5 @@ matplot++最新版就可以,这个和其他是独立的，没啥依赖关系
 colcon build  
 . install/setup.bash  
 ros2 launch carla_ad_demo carla_ad_demo.launch.py  
+# 视频展示
+https://www.bilibili.com/video/BV1bT421e7CM/?share_source=copy_web&vd_source=c6672cbc9ac3f70466950e7ef1e8855a
